@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile_Lab7</string>
+    <string name="true_login">admin</string>
+    <string name="true_pass">admin</string>
+</resources>
