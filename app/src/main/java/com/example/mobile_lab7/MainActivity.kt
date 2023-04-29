@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
         signinButton=findViewById(R.id.button_signin)
         login=findViewById(R.id.loginText)
         password=findViewById(R.id.passwordText)

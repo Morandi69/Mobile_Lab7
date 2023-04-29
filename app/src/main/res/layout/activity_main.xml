@@ -32,10 +32,10 @@
 
         <ImageView
             android:id="@+id/imageViewLogin"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
             app:srcCompat="@drawable/userwhite"
-            android:layout_margin="10dp"
+            android:layout_margin="20dp"
             android:layout_gravity="center_vertical"/>
         <EditText
             android:id="@+id/loginText"
@@ -44,7 +44,7 @@
             android:layout_height="match_parent"
             android:background="@android:color/transparent"
             android:hint="Username"
-            android:paddingLeft="20dp"
+
             android:textSize="18dp"
             android:textColor="@color/white"
             android:textColorHint="@color/white"/>
@@ -61,10 +61,10 @@
 
         <ImageView
             android:id="@+id/imageViewPass"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
             app:srcCompat="@drawable/passwd"
-            android:layout_margin="10dp"
+            android:layout_margin="20dp"
             android:layout_gravity="center_vertical"/>
         <EditText
             android:id="@+id/passwordText"
@@ -73,7 +73,7 @@
             android:layout_height="match_parent"
             android:background="@android:color/transparent"
             android:hint="Password"
-            android:paddingLeft="20dp"
+
             android:textSize="18dp"
             android:textColor="@color/white"
             android:textColorHint="@color/white"/>
